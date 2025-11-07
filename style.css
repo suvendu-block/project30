@@ -7,6 +7,7 @@
 html, body {
   width: 100%;
   height: 100%;
+  scroll-behavior: smooth;
 }
 
 main {
@@ -122,8 +123,253 @@ main section.view4 .all-section .buttom .line {
   background-color: black;
   justify-content: center;
 }
+main section.view5 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+main section.view5 .all-section {
+  width: 100%;
+}
+main section.view5 .all-section .top {
+  width: 100%;
+}
+main section.view5 .all-section .top h1 {
+  text-align: center;
+  padding: 1rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+main section.view5 .all-section .top img {
+  width: 50%;
+  border-radius: 30px;
+  padding: 1rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+main section.view5 .all-section .buttom {
+  width: 100%;
+  padding: 1rem;
+}
+main section.view5 .all-section .buttom h1 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+main section.view5 .all-section .buttom p {
+  text-align: center;
+  font-size: 0.7rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 0.5rem;
+}
+main section.view5 .all-section .buttom .line {
+  width: 85vw;
+  height: 0.2vh;
+  background-color: black;
+}
+main section.view6 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+main section.view6 .all-section {
+  width: 100%;
+}
+main section.view6 .all-section .top {
+  width: 100%;
+}
+main section.view6 .all-section .top h1 {
+  text-align: center;
+  padding: 1rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+main section.view6 .all-section .top img {
+  width: 50%;
+  border-radius: 30px;
+  padding: 1rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+main section.view6 .all-section .buttom {
+  width: 100%;
+  padding: 1rem;
+}
+main section.view6 .all-section .buttom h1 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+main section.view6 .all-section .buttom p {
+  text-align: center;
+  font-size: 0.7rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 0.5rem;
+}
+main section.view6 .all-section .buttom .line {
+  width: 85vw;
+  height: 0.2vh;
+  background-color: black;
+}
+main section.view7 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+main section.view7 .all-section {
+  width: 100%;
+}
+main section.view7 .all-section .top {
+  width: 100%;
+}
+main section.view7 .all-section .top h1 {
+  text-align: center;
+  padding: 1rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+main section.view7 .all-section .top img {
+  width: 50%;
+  border-radius: 30px;
+  padding: 1rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+main section.view7 .all-section .buttom {
+  width: 100%;
+  padding: 1rem;
+}
+main section.view7 .all-section .buttom h1 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+main section.view7 .all-section .buttom p {
+  text-align: center;
+  font-size: 0.7rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 0.5rem;
+}
+main section.view7 .all-section .buttom .line {
+  width: 85vw;
+  height: 0.2vh;
+  background-color: black;
+}
+main section.view8 {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  width: 100%;
+  align-items: center;
+}
+main section.view8 .all-section {
+  width: 100%;
+}
+main section.view8 .all-section .top {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+main section.view8 .all-section .top img {
+  width: 250px;
+  border-radius: 30px;
+}
+main section.view8 .all-section .buttom {
+  width: 100%;
+  align-items: center;
+}
+main section.view8 .all-section .buttom h5 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: capitalize;
+}
+main section.view8 .all-section .buttom h1 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: capitalize;
+}
+main section.view8 .all-section .buttom .button {
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  text-align: center;
+}
+main section.view8 .all-section .buttom .button button {
+  padding: 1rem;
+  width: 120px;
+  background-color: yellow;
+  border: none;
+  border-radius: 10px;
+}
+main section.view8 .all-section .buttom .button button:hover {
+  background-color: black;
+  color: yellow;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+main section.view9 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  text-align: center;
+}
+main section.view9 .all-section {
+  width: 100%;
+}
+main section.view9 .all-section .top {
+  width: 100%;
+}
+main section.view9 .all-section .top img {
+  width: 330px;
+  border-radius: 30px;
+}
+main section.view9 .all-section .buttom {
+  width: 100%;
+  padding: 1rem;
+}
+main section.view9 .all-section .buttom .last {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+main section.view9 .all-section .buttom .last h1 {
+  text-transform: capitalize;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+main section.view9 .all-section .buttom .last button {
+  width: 120px;
+  background-color: yellow;
+  border: none;
+  border-radius: 10px;
+  text-transform: uppercase;
+}
+main section.view9 .all-section .buttom .last button:hover {
+  background-color: black;
+  color: yellow;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
 
 @media (min-width: 786px) {
+  main {
+    text-transform: capitalize;
+  }
   main section.view1 {
     width: 100%;
   }
@@ -190,5 +436,128 @@ main section.view4 .all-section .buttom .line {
   }
   main section.view4 .all-section .buttom .line {
     width: 95vw;
+  }
+  main section.view5 {
+    width: 100%;
+  }
+  main section.view5 .all-section {
+    width: 100%;
+    padding: 1.5rem;
+  }
+  main section.view5 .all-section .top {
+    width: 100%;
+  }
+  main section.view5 .all-section .top h1 {
+    font-size: 3.4rem;
+    padding: 1rem;
+  }
+  main section.view5 .all-section .top img {
+    width: 200px;
+    padding: 1rem;
+  }
+  main section.view5 .all-section .buttom {
+    width: 100%;
+  }
+  main section.view5 .all-section .buttom h1 {
+    font-size: 3rem;
+  }
+  main section.view5 .all-section .buttom p {
+    font-size: 2rem;
+  }
+  main section.view5 .all-section .buttom .line {
+    width: 95vw;
+  }
+  main section.view6 {
+    width: 100%;
+  }
+  main section.view6 .all-section {
+    width: 100%;
+    padding: 1.5rem;
+  }
+  main section.view6 .all-section .top {
+    width: 100%;
+  }
+  main section.view6 .all-section .top h1 {
+    font-size: 3.4rem;
+    padding: 1rem;
+  }
+  main section.view6 .all-section .top img {
+    width: 200px;
+    padding: 1rem;
+  }
+  main section.view6 .all-section .buttom {
+    width: 100%;
+  }
+  main section.view6 .all-section .buttom h1 {
+    font-size: 3rem;
+  }
+  main section.view6 .all-section .buttom p {
+    font-size: 2rem;
+  }
+  main section.view6 .all-section .buttom .line {
+    width: 95vw;
+  }
+  main section.view7 {
+    width: 100%;
+  }
+  main section.view7 .all-section {
+    width: 100%;
+    padding: 1.5rem;
+  }
+  main section.view7 .all-section .top {
+    width: 100%;
+  }
+  main section.view7 .all-section .top h1 {
+    font-size: 3.4rem;
+    padding: 1rem;
+  }
+  main section.view7 .all-section .top img {
+    width: 200px;
+    padding: 1rem;
+  }
+  main section.view7 .all-section .buttom {
+    width: 100%;
+  }
+  main section.view7 .all-section .buttom h1 {
+    font-size: 3rem;
+  }
+  main section.view7 .all-section .buttom p {
+    font-size: 2rem;
+  }
+  main section.view7 .all-section .buttom .line {
+    width: 95vw;
+  }
+  main section.view8 {
+    width: 100%;
+  }
+  main section.view8 .all-section {
+    width: 100%;
+  }
+  main section.view8 .all-section .top {
+    width: 100%;
+  }
+  main section.view8 .all-section .top img {
+    width: 500px;
+  }
+  main section.view8 .all-section .buttom {
+    width: 100%;
+  }
+  main section.view8 .all-section .buttom h5 {
+    font-size: 3rem;
+  }
+  main section.view8 .all-section .buttom h1 {
+    font-size: 2.6rem;
+  }
+  main section.view9 {
+    width: 100%;
+  }
+  main section.view9 .all-section {
+    width: 100%;
+  }
+  main section.view9 .all-section .top {
+    width: 100%;
+  }
+  main section.view9 .all-section .top img {
+    width: 50vw;
   }
 }/*# sourceMappingURL=style.css.map */
